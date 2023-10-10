@@ -11,8 +11,12 @@
             "id": "324029408e109a9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -150,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73b55b10aed49262",
+  "active": "324029408e109a9e",
   "lastOpenFiles": [
+    "README.md",
+    "_posts/2020-03-07-first-post.md",
     "Untitled.md"
   ]
 }
